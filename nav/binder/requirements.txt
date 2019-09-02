@@ -1,0 +1,4 @@
+numpy
+dataverk
+plotly
+pandas_profiling

@@ -1,0 +1,20 @@
+# Jupyter Notebook
+**.ipynb_checkpoints
+**__pycache__
+
+# VS code
+.vscode
+
+# Notes
+**.notes
+
+**.untracked
+
+# Environment variables
+**.env
+**settings.json
+**.mapbox_token
+
+
+# Miscellaneous
+**.DS_Store
